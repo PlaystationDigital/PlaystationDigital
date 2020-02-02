@@ -20,7 +20,7 @@ locale: en-US
 title: "Playstation Digital"
 description: "Gaming news and personal reviews"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://www.playstationdigital.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https:/playstationdigital.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
