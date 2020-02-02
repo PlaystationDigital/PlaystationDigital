@@ -102,9 +102,3 @@ footer_links:
  - title: Twitter
     url: https://twitter.com/PlaystationDGTL
     icon: fab fa-twitter-square
-  - title: Facebook Page
-    url: https://instagram.com/mmistakes
-    icon: fab fa-facebook
-  #- title: Feed
-   # url: atom.xml
-    #icon: fas fa-rss-square
