@@ -99,6 +99,12 @@ author:
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+ - title: Twitter
+    url: https://twitter.com/PlaystationDGTL
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/mmistakes
+    icon: fab fa-facebook
+  #- title: Feed
+   # url: atom.xml
+    #icon: fas fa-rss-square
