@@ -21,7 +21,7 @@ title: "Playstation Digital"
 description: "Gaming news and personal reviews"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https:/playstationdigital.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/assets/images/13596F4C-183D-4A39-A86F-3C6FBDCC1544.png" # path of site logo, e.g. "/images/logo.png"
+logo: "/assets/images/200 x 200 LOGO.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: # 200
