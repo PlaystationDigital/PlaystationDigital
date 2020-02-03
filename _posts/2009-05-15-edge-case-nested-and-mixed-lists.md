@@ -1,6 +1,6 @@
 ---
 title: Starting off
-author: Gabriel c
+author: Gabriel C
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
