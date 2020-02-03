@@ -1,5 +1,5 @@
 ---
-title: Starting off
+title: Starting Off
 author: Gabriel C
 categories:
   - first post
