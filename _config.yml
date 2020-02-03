@@ -23,7 +23,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url: https:/playstationdigital.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/assets/images/13596F4C-183D-4A39-A86F-3C6FBDCC1544.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
+read_time: true # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
 google_fonts:
