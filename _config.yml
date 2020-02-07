@@ -77,14 +77,22 @@ plugins:
 # Front Matter Defaults
 defaults:
   # Posts defaults
-  - scope:
-      path: "_posts"
+   - scope:
+      path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
       comments: true
       share: true
-
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 # Site Author
 author: 
   name:
