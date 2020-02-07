@@ -30,7 +30,7 @@ layout: default
           {% include social-share.html %}
         {% endif %}
         
-        {% if page.comments or site.comments %}
+        {% if page.comments or site.comments or site.disqus.shortname %}
           {% include disqus-comments.html %}
         {% endif %}
 
