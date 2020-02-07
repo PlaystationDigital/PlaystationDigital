@@ -78,15 +78,12 @@ plugins:
 defaults:
   # Posts defaults
    - scope:
-      path: "posts"
+      path: "_posts"
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
+      layout: post
       comments: true
       share: true
-      related: true
 # Site Author
 author: 
   name:
