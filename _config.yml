@@ -78,7 +78,7 @@ plugins:
 defaults:
   # Posts defaults
    - scope:
-      path: ""
+      path: "posts"
       type: posts
     values:
       layout: single
