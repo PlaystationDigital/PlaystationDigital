@@ -30,9 +30,7 @@ layout: default
           {% include social-share.html %}
         {% endif %}
         
-        {% if page.comments or site.comments or site.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
+         {% if (site.owner.disqus-shortname and page.comments) or site.comments %}<span class="entry-comments"><i class="fa fa-comment-o"></i> <a href="#disqus_thread">Comment</a></span>{% endif %}
 
         {% include page-pagination.html %}
       </div>
