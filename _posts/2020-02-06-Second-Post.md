@@ -1,6 +1,5 @@
 ---
 title: "Second Post"
-comments: true
 image:
       path: /assets/images/spidey.jpg
       thumbnail: /assets/images/spidey.jpg
