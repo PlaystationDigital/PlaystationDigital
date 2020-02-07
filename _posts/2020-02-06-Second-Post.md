@@ -1,5 +1,5 @@
 ---
-title: "Second Post"
+draft: "Second Post"
 comments: false
 image:
       path: /assets/images/spidey.jpg
