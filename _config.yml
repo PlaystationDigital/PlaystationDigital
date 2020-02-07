@@ -82,7 +82,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
+      comments: false
       share: true
 # Site Author
 author: 
