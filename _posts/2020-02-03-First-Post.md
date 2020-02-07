@@ -1,6 +1,5 @@
 ---
 title: "First Post"
-comments: true
 image:
       path: /assets/images/ps4controller.jpg
       thumbnail: /assets/images/ps4controller.jpg
