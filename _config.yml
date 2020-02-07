@@ -87,12 +87,6 @@ defaults:
       comments: true
       share: true
       related: true
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 # Site Author
 author: 
   name:
