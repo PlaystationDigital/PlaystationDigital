@@ -100,12 +100,6 @@ footer_links:
   - title: Instagram
     url: https://instagram.com/Playstation.Digital
     icon: fab fa-instagram
-  #- title: GitHub
-   # url: https://github.com/mmistakes
-    #icon: fab fa-github-square
-  #- title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
    - title: Tumblr
     url: https://playstationdigital.tumblr.com/
     icon: fab fa-tumblr-square
