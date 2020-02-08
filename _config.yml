@@ -103,6 +103,12 @@ footer_links:
   #- title: GitHub
    # url: https://github.com/mmistakes
     #icon: fab fa-github-square
-  - title: Feed
+  #- title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+   - title: Tumblr
+    url: https://playstationdigital.tumblr.com/
+    icon: fab fa-tumblr-square
+   - title: Reddit
+    url: https://www.reddit.com/r/PlayStationDigital/
+    icon: fab fa-reddit-square
