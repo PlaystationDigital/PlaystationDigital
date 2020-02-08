@@ -14,7 +14,7 @@ tags:
 ---
 
 I'm very excited to start a website based on my passion of playing and talking about video games!
-And yes i am the one throwing the peace sign in the photo above.
+And yes I am the one throwing the peace sign in the photo above.
 
 # Who Am I?
 Welp my name is Gabriel. I am the oldest of 9, Born in Denver, Colorado. Grew up in Guamuchil, Sinaloa. And now reside in Fresno, California. I’ve been moving around most of my life, my family has always been spread out between the U.S. and Mexico. But throughout all the ups and downs of being a first generation Mexican-American video games have remained the one thing that truly stayed with me wherever i went.
