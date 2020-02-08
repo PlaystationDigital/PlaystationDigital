@@ -7,13 +7,14 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: jekyll-theme-so-simple
-#remote_theme: mmistakes/so-simple-theme
+# remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Playstation Digital"
@@ -93,15 +94,15 @@ author:
 
 # Footer Links
 footer_links:
-- title: Twitter
-url: https://twitter.com/PlaystationDGTL
-icon: fab fa-twitter-square
-- title: Instagram
-url: https://instagram.com/Playstation.Digital
-icon: fab fa-instagram
-- title: Tumblr
-url: https://playstationdigital.tumblr.com
-icon: fab fa-tumblr-square
-- title: Reddit
-url: https://www.reddit.com/r/PlayStationDigital
-icon: fab fa-reddit-square
+  - title: Twitter
+    url: https://twitter.com/PlaystationDGTL
+    icon: fab fa-twitter-square
+  - title: Instagram
+    url: https://instagram.com/Playstation.Digital
+    icon: fab fa-instagram
+  #- title: GitHub
+   # url: https://github.com/mmistakes
+    #icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
