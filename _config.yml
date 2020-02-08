@@ -100,9 +100,9 @@ icon: fab fa-twitter-square
 - title: Instagram
 url: https://instagram.com/Playstation.Digital
 icon: fab fa-instagram
-- title: Tumblr
-url: https://playstationdigital.tumblr.com
-icon: fab fa-tumblr-square
-- title: Reddit
-url: https://www.reddit.com/r/PlayStationDigital
-icon: fab fa-reddit-square
+#- title: Tumblr
+#url: https://playstationdigital.tumblr.com
+#icon: fab fa-tumblr-square
+#- title: Reddit
+#url: https://www.reddit.com/r/PlayStationDigital
+#icon: fab fa-reddit-square
