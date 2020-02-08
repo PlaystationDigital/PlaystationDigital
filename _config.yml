@@ -93,8 +93,8 @@ author:
     #  icon: fab fa-twitter-square
 
 # Footer Links
-footer_links: false
-  - title: Twitter
+footer_links:
+- title: Twitter
     url: https://twitter.com/PlaystationDGTL
     icon: fab fa-twitter-square
   - title: Instagram
