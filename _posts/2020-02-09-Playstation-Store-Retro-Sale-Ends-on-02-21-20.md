@@ -56,14 +56,14 @@ This weeks sale brings back memories with the Remasters and Retro Sale happening
 |[BAJA: Edge Of Control HD](http://scapognel.com/4X8e)|	8.99	|29.99|
 |[BATMAN: ARKHAM COLLECTION](http://scapognel.com/4XA6)|	17.99|	59.99|
 |[BATMAN: RETURN TO ARKHAM](http://scapognel.com/4XCB)|	4.99	|19.99|
-|[BLOODSTAINED: RITUAL OF THE NIGHT]()|	23.99	|39.99|
-|[BORDERLANDS: GAME OF THE YEAR EDITION]()|	14.99	|29.99|
-|[BORDERLANDS: THE HANDSOME COLLECTION]()|	19.79	|59.99|
-|[BULLETSTORM: FULL CLIP EDITION]()|	5.99	|39.99|
-|[BULLY]()|	8.99	|14.99|
-|[BURNOUT PARADISE REMASTERED]()|	7.99	|19.99|
-|[CALL OF DUTY: MODERN WARFARE REMASTERED]()|	15.99	|39.99
-|[CALL OF DUTY: MWR VARIETY MAP PACK]()|	5.99	|14.99|
+|[BLOODSTAINED: RITUAL OF THE NIGHT](http://scapognel.com/4XIF)|	23.99	|39.99|
+|[BORDERLANDS: GAME OF THE YEAR EDITION](http://scapognel.com/4XJK)|	14.99	|29.99|
+|[BORDERLANDS: THE HANDSOME COLLECTION](http://scapognel.com/4XKe)|	19.79	|59.99|
+|[BULLETSTORM: FULL CLIP EDITION](http://scapognel.com/4XUk)|	5.99	|39.99|
+|[BULLY](http://scapognel.com/4XW1)|	8.99	|14.99|
+|[BURNOUT PARADISE REMASTERED](http://scapognel.com/4XXu)|	7.99	|19.99|
+|[CALL OF DUTY: MODERN WARFARE REMASTERED](http://scapognel.com/4XZg)|	15.99	|39.99
+|[CALL OF DUTY: MWR VARIETY MAP PACK](http://scapognel.com/4Xax)|	5.99	|14.99|
 |[CAPCOM BEAT ‘EM UP BUNDLE]()|	9.99	|19.99|
 |[CASTLESTORM DEFINITIVE EDITION]()|	2.99|	14.99|
 |[CASTLEVANIA ANNIVERSARY COLLECTION]()|	9.99	|19.99|
@@ -200,8 +200,8 @@ This weeks sale brings back memories with the Remasters and Retro Sale happening
 
 | TITLE         |$ SALE | $ ORIGINAL                                                      |
 |------------------|--------|--------------------------------------------------------------|
-|[BLOOD OMEN: LEGACY OF KAIN (PSONE CLASSIC)]()|	1.19|	5.99|
-|[BREATH OF FIRE IV (PSONE CLASSIC)]()|	2.09	|5.99|
+|[BLOOD OMEN: LEGACY OF KAIN (PSONE CLASSIC)](http://scapognel.com/4XGU)|	1.19|	5.99|
+|[BREATH OF FIRE IV (PSONE CLASSIC)](http://scapognel.com/4XME)|	2.09	|5.99|
 |[CEL DAMAGE HD]()|	2.99	|9.99|
 |[CYBERBOTS FULLMETAL MADNESS (PSONE IMPORT)]()|	2.09	|5.99|
 |[DARKSTALKERS (PSONE CLASSIC)]()|	2.09|	5.99|
@@ -240,3 +240,5 @@ This weeks sale brings back memories with the Remasters and Retro Sale happening
 |------------------|--------|--------------------------------------------------------------|
 |[CEL DAMAGE HD]()|	2.99	|9.99|
 |[DRAGON SINKER]()|	7.49	|14.99|
+
+# Are you getting anything this week? Let me know your picks in the comments below!
