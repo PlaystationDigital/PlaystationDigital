@@ -32,9 +32,9 @@ This weeks sale brings back memories with the Remasters and Retro Sale happening
 |[ACA NEOGEO SENGOKU](http://scapognel.com/4Vqg) |3.99|7.99|
 |[ACA NEOGEO SUPER SIDEKICKS](http://scapognel.com/4VsA) |3.99|7.99|
 |[ACA NEOGEO THE KING OF FIGHTERS ’94](http://scapognel.com/4Vt5) |3.99|7.99|
-|[ACA NEOGEO ZED BLADE]() |3.99|7.99|
-|[ADK TAMASHII (PS2)]()|	4.49|	14.99|
-|[ANNIVERSARY COLLECTION ARCADE CLASSICS]()|	9.99	|19.99|
+|[ACA NEOGEO ZED BLADE](http://scapognel.com/4WCP) |3.99|7.99|
+|[ADK DAMASHII (PS2)](http://scapognel.com/4WDl)|	4.49|	14.99|
+|[ANNIVERSARY COLLECTION ARCADE CLASSICS](http://scapognel.com/4WNr)|	9.99	|19.99|
 |[ARCADE ARCHIVES ARMED F]()|	3.99	|7.99
 |[ARCADE ARCHIVES CRAZY CLIMBER]()|	3.99	|7.99|
 |[ARCADE ARCHIVES DOUBLE DRAGON]()|	3.99	|7.99|
