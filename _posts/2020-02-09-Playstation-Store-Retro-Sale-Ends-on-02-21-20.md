@@ -27,7 +27,7 @@ This weeks sale brings back memories with the Remasters and Retro Sale happening
 |ACA NEOGEO AERO FIGHTERS 2|	                    3.99 | 7.99|
 ----------------------------------------------------------------------
 
-| Employee         | Salary |                                                              |
+| title         | $Sale |  $original                                                           |
 |------------------|--------|--------------------------------------------------------------|
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
