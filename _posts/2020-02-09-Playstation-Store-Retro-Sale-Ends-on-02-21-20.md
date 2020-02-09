@@ -21,7 +21,7 @@ This weeks sale brings back memories with the Remasters and Retro Sale happening
 
 | TITLE         | $ SALE | $ ORIGINAL                                                      |
 |------------------|--------|--------------------------------------------------------------|
-|[.HACK//G.U. LAST RECODE]() |17.49|49.99|
+|[.HACK//G.U. LAST RECODE](https://store.playstation.com/en-us/product/UP0700-CUSA07559_00-HACKGURECODE0000) |17.49|49.99|
 |[ACA NEOGEO AERO FIGHTERS 2]() | 3.99 |7.99 |
 |[ACA NEOGEO ART OF FIGHTING]()	|3.99|7.99|
 |[ACA NEOGEO FATAL FURY 2]() | 3.99|7.99|
