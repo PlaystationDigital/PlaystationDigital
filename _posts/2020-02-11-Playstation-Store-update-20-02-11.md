@@ -20,6 +20,7 @@ Thank you for reading!
 
 
 # FEBRUARY’S PLAYSTATION PLUS LINEUP
+
 | TITLE                                                              |
 |------------------|--------|--------------------------------------------------------------|
 |[Bioshock: The Collection](http://whareotiv.com/1nRh) |Free With a Playstation Plus Subscription |
@@ -27,6 +28,7 @@ Thank you for reading!
 |[Firewall Zero Hour](http://whareotiv.com/1nUi) |Free With a Playstation Plus Subscription |
 
 # PS4
+
 | TITLE         | $ PRICE                                                     |
 |------------------|--------|--------------------------------------------------------------|
 |[7th Sector](http://whareotiv.com/1ngB) |19.99 |
@@ -53,12 +55,14 @@ Thank you for reading!
 |[Zomb](http://whareotiv.com/1oxE) |9.99 |
 
 # PS VITA
+
 | TITLE         | $ PRICE                                                     |
 |------------------|--------|--------------------------------------------------------------|
 |[Balthazar’s Dream](http://whareotiv.com/1p5R) |7.99 |
 |[Reed Remastered](http://whareotiv.com/1p83) |4.99 |
 
 # PS VR
+
 | TITLE         | $ PRICE                                                     |
 |------------------|--------|--------------------------------------------------------------|
 |[Throw Anything](http://whareotiv.com/1p3n) | 18.99|
