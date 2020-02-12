@@ -30,6 +30,7 @@ Whether you’re new to Frontier Pursuits or you’ve journeyed through each pat
    
    <li> Collector: 40% XP & Role XP boost on sales of complete Collection sets. </li>
 
+
 ## NEW TO THE CATALOGUE THIS WEEK CHARLESTON TOP HAT, REAVES TOP HAT AND CAUGHERTY SHIRT.
 
 ![Fresh-look](/assets/images/catalog.png){:class="img-responsive"}
