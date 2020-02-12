@@ -30,7 +30,7 @@ Thank you for reading!
 # PS4
 
 | TITLE         | $ PRICE                                                     |
-|------------------|--------|--------------------------------------------------------------|
+|------------------|----------------------------------------------------------------------|
 |[7th Sector](http://whareotiv.com/1ngB) |19.99 |
 |[7th Sector Collector’s Edition](http://whareotiv.com/1nkK) |24.99 |
 |[The Adventures of 00 Dilly](http://whareotiv.com/1nqA)	|14.99 |
@@ -57,14 +57,14 @@ Thank you for reading!
 # PS VITA
 
 | TITLE         | $ PRICE                                                     |
-|------------------|--------|--------------------------------------------------------------|
+|------------------|----------------------------------------------------------------------|
 |[Balthazar’s Dream](http://whareotiv.com/1p5R) |7.99 |
 |[Reed Remastered](http://whareotiv.com/1p83) |4.99 |
 
 # PS VR
 
 | TITLE         | $ PRICE                                                     |
-|------------------|--------|--------------------------------------------------------------|
+|------------------|----------------------------------------------------------------------|
 |[Throw Anything](http://whareotiv.com/1p3n) | 18.99|
 
 # See anything interesting for you this week? Let me know in the comments below!
