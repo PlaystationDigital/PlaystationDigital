@@ -15,7 +15,7 @@ tags:
   - The last of us 2
 ---
 
-# Claim your Free PS4 Theme Announced for The Last of Us Part II
+# Claim your Free The Last of Us Part II Theme on PS4
 
 A free PS4 Dynamic Theme for the concept art is available to download below. This theme has a great dynamic feature that uses the ps4 system clock to change from night to day! 
 Codes for the theme are as follows, courtesy of the PlayStation Blog:
