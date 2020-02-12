@@ -22,10 +22,13 @@ tags:
 
 Whether you’re new to Frontier Pursuits or you’ve journeyed through each path you can pick up a 40% XP boost from Role activities for both your character progression and your Role progression this week.
 
-  <li>Moonshiner: 40% XP & Role XP boost on all Sales, Moonshine Story and Bootlegger Missions.</li>
-      <li>Bounty Hunter: 40% XP & Role XP boost on Bounty Hunter Missions, including Legendary Bounties.</li>
-      <li>Trader: 40% XP & Role XP boost on Sales and Resupply Missions, as well as making Stew in your camp.</li>
-      <li>Collector: 40% XP & Role XP boost on sales of complete Collection sets.</li>
+  <li> Moonshiner: 40% XP & Role XP boost on all Sales, Moonshine Story and Bootlegger Missions. </li>
+  
+   <li> Bounty Hunter: 40% XP & Role XP boost on Bounty Hunter Missions, including Legendary Bounties. </li>
+   
+   <li> Trader: 40% XP & Role XP boost on Sales and Resupply Missions, as well as making Stew in your camp. </li>
+   
+   <li> Collector: 40% XP & Role XP boost on sales of complete Collection sets. </li>
 
 ## NEW TO THE CATALOGUE THIS WEEK CHARLESTON TOP HAT, REAVES TOP HAT AND CAUGHERTY SHIRT.
 
