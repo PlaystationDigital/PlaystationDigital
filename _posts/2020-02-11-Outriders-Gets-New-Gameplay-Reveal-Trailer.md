@@ -17,7 +17,7 @@ tags:
 
 Square Enix has released a new reveal trailer for Outriders today, showcasing a first look at in-game footage, ahead of a reveal live stream scheduled for Thursday 13th February. Coming from Bulletstorm developer People Can Fly, Outriders is a co-op RPG shooter set to hit both current-gen consoles and PlayStation 5, first announced during E3 2019.
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=kVlzMyPlKek" ratio="16:9" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVlzMyPlKek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Sypnosis
 
