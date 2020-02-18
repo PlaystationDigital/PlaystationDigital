@@ -17,7 +17,7 @@ tags:
 
 Bandai Namco recently published Dragon Ball Z: Kakarot, but that isn’t stopping the company from supporting 2018’s Dragon Ball FighterZ. FighterZ will be getting a new season of content at the end of the month featuring an updated battle system, training mode, and additional character named Kefla. This character is a fusion of Kale and Caulifla as part of the Dragon Ball Super series and is considered to be an all-powerful foe—more so than Goku in his Super Saiyan God form.
 
-Thanks to Siliconera for the translation from Ryokutya2089. Here’s what to expect from Kefla:
+Thanks to [Siliconera](https://www.siliconera.com/dragon-ball-fighterz-shares-details-for-kefla-new-battle-system-features-and-new-practice-training-mode/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-ball-fighterz-shares-details-for-kefla-new-battle-system-features-and-new-practice-training-mode) for the translation from [Ryokutya2089.](http://ryokutya2089.com/archives/28731) Here’s what to expect from Kefla:
 
 <ul>
 <li>Special Attacks: “Fast Cannon Ball,” “Gigantic Breaker”</li>
