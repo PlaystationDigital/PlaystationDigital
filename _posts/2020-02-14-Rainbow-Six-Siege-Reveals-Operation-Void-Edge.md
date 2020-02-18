@@ -23,7 +23,7 @@ A new Attacker named Iana will introduce a hologram that looks, sounds, and move
 
 # Meet your new Operators
 
-## The new Dutch attacker: Iana
+## The new Dutch attacker Iana
 
 She can create a holographic duplicate of herself (which reflects any cosmetic customization so as to be even more convincing). Upon activation of her Gemini Replicator gadget, she spawns and controls the hologram from a first-person perspective. The hologram moves and sounds like her, making it difficult for Defenders to tell which Iana is real and which is the hologram. The hologram can’t shoot, melee, or use secondary gadgets, but it’s a powerful tool of deception that can keep the Defenders guessing.
 
