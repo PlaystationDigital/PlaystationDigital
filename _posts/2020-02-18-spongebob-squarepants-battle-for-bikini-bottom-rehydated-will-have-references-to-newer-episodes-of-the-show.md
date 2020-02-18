@@ -1,5 +1,5 @@
 ---
-title: "MediEvil-Inspired 3D Platformer Pumpkin Jack Comes to PS4 Later This Year"
+title: "Spongebob Squarepants Battle For Bikini Bottom Rehydated Will Have Have References To Newer Episodes Of The Show"
 image:
       path: /assets/images/sponge.jpeg
       thumbnail: /assets/images/sponge.jpeg
