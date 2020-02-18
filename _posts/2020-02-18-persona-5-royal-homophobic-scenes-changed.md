@@ -21,7 +21,7 @@ Atlus Communications Manager Ari Advincula talked to IGN at a recent Person 5 Ro
 
 In localization and re-release with this new version of Persona 5, Atlus now has the opportunity to fix some of those areas of criticism. “We actually were able to go through some of the lines that players may not have received as well, look at that feedback, and then [update it] for the current generation,” Advincula told IGN. Atlus hasn’t detailed exactly how the scenes or dialog will be changed in localization, but scenes like these are the primary focus of the localization team’s internal content review team.
 
-“[It’s] a chance to make it right,” she said, explaining that creating discussion around these scenes was one of the first things she approached when she joined the communications team. “That’s really important to me, and I think it’s really important to the community as well.”
+“It’s a chance to make it right,” she said, explaining that creating discussion around these scenes was one of the first things she approached when she joined the communications team. “That’s really important to me, and I think it’s really important to the community as well.”
 
 # Person 5 Royal Homophobic Scenes Changes
 
