@@ -5,9 +5,9 @@ image:
       thumbnail: /assets/images/sponge.jpeg
 author: Gabriel C
 categories:
-  - Spongebob Squarepants: Battle for Bikini Bottom – Rehydrated
+  - Spongebob Squarepants: Battle for Bikini Bottom  Rehydrated
 tags:
-  - Spongebob Squarepants: Battle for Bikini Bottom – Rehydrated
+  - Spongebob Squarepants: Battle for Bikini Bottom  Rehydrated
   - Digital
   - Game Release
   - PS4
