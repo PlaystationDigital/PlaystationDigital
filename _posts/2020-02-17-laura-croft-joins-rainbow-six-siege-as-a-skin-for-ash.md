@@ -17,7 +17,7 @@ tags:
 
 A new collaboration between Rainbow Six Siege will allow Lara Croft joining the game as a new elite skin. This announcement came from The Six Invitational which has some of the best teams in Rainbow Six Siege compete against each other along with major news coming from the event. This skin is going to be available for Ash shortly after the launch of the first season of year five which also includes two new operators.
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=NcSf4Pn83_8" ratio="16:9" %}
+{% include responsive-embed url="https://youtu.be/NcSf4Pn83_8" ratio="16:9" %}
 
 <ul>
 <li>Tomb Raider Skin</li>
