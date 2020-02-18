@@ -19,8 +19,7 @@ THQ Nordic has confirmed in an interview that Spongebob Squarepants: Battle for 
 While trying stay true to as much as the original content, the Purple Lamp Studios felt it was necessary to add a little bit extra for fans. Producer at THQ Nordic Martin Kreuch said the following when we asked about if newer references would appear in the game:
 
 >Mainly we focused on faithfully recreating the original game. However, there are small details like the Police Station or other buildings, and also SpongeBob’s shape and color that have changed slightly since season 2 (which the original game was based on).
-
-Here and there we do hide little references to everybody’s favorite newer episodes, but those are more along the lines of Easter eggs.
+>Here and there we do hide little references to everybody’s favorite newer episodes, but those are more along the lines of Easter eggs.
 >
 > <cite> <a> THQ Nordic </a> </cite>
 
