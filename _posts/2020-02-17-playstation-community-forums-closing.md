@@ -1,5 +1,5 @@
 ---
-title: "playstation-community-forums-closing"
+title: "Playstation Community Forums Closing"
 image:
       path: /assets/images/snake404.png
       thumbnail: /assets/images/snake404.png
