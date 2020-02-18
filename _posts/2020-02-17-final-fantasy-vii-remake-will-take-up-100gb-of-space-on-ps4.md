@@ -5,7 +5,7 @@ image:
       thumbnail: /assets/images/final-fantasy-vii-remake-normal-hero-background-01-ps4-us-11jun19.jpeg
 author: Gabriel C
 categories:
-  - Rainbow Six Siege
+  - Final Fantasy VII
 tags:
   - Final Fantasy VII
   - Digital
