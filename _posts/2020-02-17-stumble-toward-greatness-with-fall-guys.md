@@ -1,8 +1,8 @@
 ---
 title: "Stumble Toward Greatness with Fall Guys"
 image:
-      path: /assets/images/fall-guys-ultimate-knockout-logo-01-ps4-us-06jun19.png
-      thumbnail: /assets/images/fall-guys-ultimate-knockout-logo-01-ps4-us-06jun19.png
+      path: /assets/images/Fall Guys Logo.png
+      thumbnail: /assets/images/Fall Guys Logo.png
 author: Gabriel C
 categories:
   - Fall guys
@@ -15,7 +15,7 @@ tags:
 
 # Watch the first entry in the Behind the Stumbles video series.
 
-{% include responsive-embed url="https://youtu.be/S4o5LmOsInM" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/S4o5LmOsInM" ratio="16:9" %}
 
 The Mediatonic team was absolutely blown away by the reception Fall Guys received from the PlayStation community when we revealed it last year during E3. But we haven’t said too much about the game since then because we’ve been hard at work on living up to those lofty expectations. We’re kicking off the hype train on the path towards launch with our first in a series of videos called “Behind the Stumbles” that takes a peek behind the curtain to see what makes the Fall Guys magic happen.
 
