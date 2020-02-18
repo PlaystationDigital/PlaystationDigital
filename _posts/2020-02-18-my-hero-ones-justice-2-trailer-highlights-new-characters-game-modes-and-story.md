@@ -13,10 +13,10 @@ tags:
   - PS4
   - Bandai Namco
 ---
+Bandai Namco released a new trailer for My Hero One’s Justice 2 that highlights new characters, its different game modes, and story scenes.
 
 {% include responsive-embed url="https://www.youtube.com/embed/-RrSHpagqYk" ratio="16:9" %}
 
-Bandai Namco released a new trailer for My Hero One’s Justice 2 that highlights new characters, its different game modes, and story scenes.
 
 The video starts out with a look at some action from new playable characters. It includes Izuku Midoriya Full Cowl 100%, Overhaul Version 2, Gang Orca, Seiji Shishikura and Camie Utsushimi.
 
