@@ -11,7 +11,7 @@ tags:
   - Digital
   - Game Cover
   - Square Enix
-  _ FFVII
+  - FFVII
 ---
 
 Square Enix has confirmed that Final Fantasy VII Remake will take up a massive 100GB on PS4. Previously the Japanese publisher said that the game will take up an entire 2 Blu-Ray discs and that remains true.
