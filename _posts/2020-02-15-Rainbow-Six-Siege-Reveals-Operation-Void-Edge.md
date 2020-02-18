@@ -5,7 +5,7 @@ image:
       thumbnail: /assets/images/R6S-FI.jpg
 author: Gabriel C
 categories:
-  - Outriders
+  - Rainbow Six Siege
 tags:
   - Rainbow Six Siege
   - Digital
