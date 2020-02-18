@@ -19,8 +19,7 @@ Game Director Leroy Athanassof confirmed the above during an interview with Wind
 
 >Why I can’t give you a date is because those dates are, in the end, on the people doing the next-gen consoles. What I can tell you is that we are going to be on [the consoles] from launch. When they will release the consoles; but it’s up to them to agree that. For Siege, our target is to be available right at launch.
 >
->
-> <cite> <a> Leroy Athanassof, Game Director at Ubisoft </a> </cite>
+> <cite> <a Leroy Athanassof, Game Director at Ubisoft </a> </cite>
 
 He added that these plans are in place to avoid fracturing the player-base, which continues to grow. “We don’t want to break our community,” Athanassof noted. “So, we want people who buy the new system right away to play it with their friends.” Cross-generational multiplayer counts as another step in keeping players united. According to the Game Director, “that means if you play on the next PlayStation, you will be able to matchmake with the previous PlayStation.”
 Yet, despite Ubisoft’s apparent preparedness, cross-play between PlayStation and Xbox remains unconfirmed for the time being. On this matter, Athanssof told Windows Central,
@@ -29,7 +28,7 @@ That means if you play on the next PlayStation, you will be able to matchmake wi
 
 >Again, this is more a discussion between Microsoft and Sony. We would love to be fully cross-play — have Xbox players matchmaking against the PlayStation players. We are ready to support that. And hopefully, this will happen because as I said, it’s a general move in the industry, and there is nothing that can prevent that. It’s just a matter of time before it happens.
 >
-><cite> <a> Leroy Athanassof, Game Director at Ubisoft </a> </cite>
+><cite> <a Leroy Athanassof, Game Director at Ubisoft </a> </cite>
 
 Fans shouldn’t hold their breaths for cross-play between consoles and PC, however. Athanssof isn’t confident such a feature will ever come to fruition with Siege, since console players would simply be opening themselves up to having their “ass[es] kicked by a keyboard and mouse.”
 At present, it’s unknown how many of Ubisoft’s other currently available titles will appear on next-gen hardware. Although, CEO Yves Guillemot recently hinted that “those consoles will be running almost all the back catalogue of the previous consoles.” In the months ahead, more information concerning backwards compatibility is bound to surface.
