@@ -1,8 +1,8 @@
 ---
 title: "Stumble Toward Greatness with Fall Guys"
 image:
-      path: /assets/images/Fall Guys.jpg
-      thumbnail: /assets/images/Fall Guys.jpg
+      path: /assets/images/fall-guys-ultimate-knockout-logo-01-ps4-us-06jun19.png
+      thumbnail: /assets/images/fall-guys-ultimate-knockout-logo-01-ps4-us-06jun19.png
 author: Gabriel C
 categories:
   - Fall guys
