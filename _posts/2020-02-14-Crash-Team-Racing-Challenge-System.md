@@ -26,7 +26,7 @@ In total (including the base game), Beenox has released 40 different kart styles
 
 ![image-title-here](/assets/images/GP_Infographic_FINAL.jpg){:class="img-responsive"}
 
-will allow players to earn Wumpa coins through Daily, Weekly, and Pro (monthly) events. You can spend your Wumpa coins in the Pit Stop on items from each Grand Prix season, which can be refreshed twice a day for more chances to customize their characters and karts. Joining the challenge system are new time trials based on times earned by Beenox staff members. Beating the team’s times won’t be easy, but if you manage to do so, you’ll unlock a “special reward” exclusively for players who complete this challenge.
+Will allow players to earn Wumpa coins through Daily, Weekly, and Pro (monthly) events. You can spend your Wumpa coins in the Pit Stop on items from each Grand Prix season, which can be refreshed twice a day for more chances to customize their characters and karts. Joining the challenge system are new time trials based on times earned by Beenox staff members. Beating the team’s times won’t be easy, but if you manage to do so, you’ll unlock a “special reward” exclusively for players who complete this challenge.
 
 ## Players can still look forward to the following:
 
