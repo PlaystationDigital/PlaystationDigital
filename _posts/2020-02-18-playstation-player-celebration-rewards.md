@@ -5,7 +5,7 @@ image:
       thumbnail: /assets/images/playstation-player-celebration-hero-section-background-01-us-30jan19.jpeg
 author: Gabriel C
 categories:
-  - Paystation player celebration
+  - Playstation player celebration
 tags:
   - Prizes
   - Digital
