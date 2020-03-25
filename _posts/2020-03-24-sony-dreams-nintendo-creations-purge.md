@@ -17,7 +17,7 @@ tags:
 
 Late last week, one creator in Dreams, Piece of Craft, saw their Mario-related content removed from the game, following a complaint from Nintendo. While it is unknown how exactly said complaint will affect other licensed creations in Dreams, Sony Interactive Entertainment has made it clear a Nintendo purge of some sort looms ahead. Due to the IP Infringement Notice, Nintendo-centric content will be excised on “an individual case-by-case basis.”
 
-![image-title-here](/assets/images/mario-dreams.900x.jpg){:class="img-responsive"}
+![image-title-here](/assets/images/mario-dreams.jpg){:class="img-responsive"}
 
 >Sony Interactive Entertainment is notifying the affected users that an IP Infringement Notice has been received from Nintendo and that the content will be removed. We cannot comment on volume of content to be removed, this is done on an individual case by case basis.
 >
