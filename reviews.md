@@ -1,8 +1,8 @@
 ---
 title: reviews
-layout: collection
+layout: home
 permalink: /reviews/
-collection: reviews
+collection: Reviews
 entries_layout: grid
 ---
 
