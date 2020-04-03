@@ -3,6 +3,8 @@ title: "Shrek is love"
 image: 
   path: /assets/images/ps4controller.jpg
   thumbnail: /assets/images/ps4controller.jpg
+  author: Gabriel C
+  
 ---
 Yeet
 
