@@ -1,8 +1,8 @@
 ---
-title: Recipes
+title: Reviews
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /Reviews/
+collection: Reviews
 entries_layout: grid
 ---
 
