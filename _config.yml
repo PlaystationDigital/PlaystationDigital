@@ -96,13 +96,12 @@ defaults:
       comments: true
       share: true
 # Site Author
-author: 
+Gabriel C:
   name: Gabriel C
   picture: /assets/images/CC921BBF-BAAC-4BB7-933A-2B95A4D44905.jpeg
-  email:
   twitter: "@Its_gabe_okay"
   links:
-  - title: Twitter
+    - title: Twitter
       url: https://twitter.com/its_gabe_okay
       icon: fab fa-twitter-square
       
