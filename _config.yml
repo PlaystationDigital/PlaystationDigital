@@ -97,15 +97,15 @@ defaults:
       share: true
 # Site Author
 author: 
-  name:
-  picture:
+  name: Gabriel C
+  picture: /assets/images/CC921BBF-BAAC-4BB7-933A-2B95A4D44905.jpeg
   email:
-  twitter: PlaystationDGTL
+  twitter: "@Its_gabe_okay"
   links:
-  #- title: Twitter
-   #   url: https://twitter.com/PlaystationDGTL
-    #  icon: fab fa-twitter-square
-
+  - title: Twitter
+      url: https://twitter.com/its_gabe_okay
+      icon: fab fa-twitter-square
+      
 # Footer Links
 footer_links:
   - title: Twitter
