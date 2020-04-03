@@ -1,6 +1,6 @@
 ---
 title: Reviews
-layout: page
+layout: post
 permalink: /reviews/
 collection: reviews
 entries_layout: list
