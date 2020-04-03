@@ -2,7 +2,7 @@
 title: reviews
 layout: collection
 permalink: /reviews/
-collection: Reviews
+collection: reviews
 entries_layout: list
 ---
 
