@@ -3,6 +3,7 @@ title: "Shrek is love"
 image: 
   path: /assets/images/ps4controller.jpg
   thumbnail: /assets/images/ps4controller.jpg
+  author: Gabriel C
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
