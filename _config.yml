@@ -87,10 +87,18 @@ defaults:
     values:
       layout: post
       share: true
-# Recipe defaults
+# Reviews defaults
   - scope:
       path: "_reviews"
       type: reviews
+    values:
+      layout: post
+      comments: true
+      share: true
+      # News defaults
+  - scope:
+      path: "news"
+      type: news
     values:
       layout: post
       comments: true
