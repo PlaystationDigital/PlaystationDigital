@@ -13,7 +13,7 @@ var store = [
       {
         "title": {{ doc.title | jsonify }},
         "excerpt":
-          {%- if site.search_full_content == true -%}
+          {%- if site.search_full_content == false -%}
           {{ doc.content | 
             replace:"</p>", " " | 
             replace:"</h1>", " " | 
