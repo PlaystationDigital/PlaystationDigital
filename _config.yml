@@ -74,11 +74,11 @@ plugins:
   
   # Collections
 collections:
- - reviews:
+    reviews:
     output: true
     permalink: /:collection/:path/
     
-   - news:
+    news:
     output: true
     permalink: /:collection/:path/
 
