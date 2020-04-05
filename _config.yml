@@ -97,7 +97,7 @@ defaults:
       share: true
       # News defaults
   - scope:
-      path: "news"
+      path: "_news"
       type: news
     values:
       layout: post
