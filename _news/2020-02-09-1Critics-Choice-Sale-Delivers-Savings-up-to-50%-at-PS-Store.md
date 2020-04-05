@@ -1,5 +1,5 @@
 ---
-title: "Critics’ Choice Sale Delivers Savings up to 50% at PS Store Ends on 02/18/20"
+title: "1Critics’ Choice Sale Delivers Savings up to 50% at PS Store Ends on 02/18/20"
 image:
       path: /assets/images/Critics-Choice-FI.jpg
       thumbnail: /assets/images/Critics-Choice-FI.jpg
