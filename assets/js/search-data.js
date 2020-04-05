@@ -5,6 +5,9 @@ sitemap: false
 
 var store = [
   {%- for c in site.collections -%}
+    {%- if forloop.last -%}
+      {%- assign l = true -%}
+    {%- endif -%}
     {%- assign docs = c.docs | where_exp: 'doc', 'doc.search != false' -%}
     {%- for doc in docs -%}
       {
@@ -33,7 +36,7 @@ var store = [
         {%- endif -%}
         "categories": {{ doc.categories | jsonify }},
         "tags": {{ doc.tags | jsonify }},
-        "url": {{ doc.url | jsonify }}
+        "url": {{ doc.url | absolute_url | jsonify }}
       } {%- unless forloop.last and l -%}, {%- endunless -%}
     {%- endfor -%}
   {%- endfor -%}
