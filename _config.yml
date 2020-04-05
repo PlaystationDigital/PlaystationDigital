@@ -74,7 +74,7 @@ plugins:
   
   # Collections
 collections:
-    reviews:
+ - reviews:
     output: true
     permalink: /:collection/:path/
 
@@ -127,4 +127,3 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
-    
