@@ -2,7 +2,7 @@
 layout: nil
 ---
 [
-  {% for post in site.home %}
+  {% for post in site./ %}
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
