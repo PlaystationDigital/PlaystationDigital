@@ -77,10 +77,6 @@ collections:
     reviews:
     output: true
     permalink: /:collection/:path/
-collections:
-    news:
-    output: true
-    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
