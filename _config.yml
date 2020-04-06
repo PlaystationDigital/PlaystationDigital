@@ -74,13 +74,9 @@ plugins:
   
   # Collections
 collections:
-  reviews:
+  releases:
     output: true
-    permalink: /:reviews/:path/
-    news:
-    output: true
-    permalink: /:collection/:path/
-
+    permalink: /:releases/:path/
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -92,16 +88,8 @@ defaults:
       share: true
 # Reviews defaults
   - scope:
-      path: "_reviews"
-      type: reviews
-    values:
-      layout: post
-      comments: true
-      share: true
-      # News defaults
-  - scope:
-      path: "_news"
-      type: news
+      path: "_releases"
+      type: releases
     values:
       layout: post
       comments: true
