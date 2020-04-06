@@ -1,6 +1,6 @@
 ---
 title: News
-layout: home
+layout: collection
 permalink: /news/
 entries_layout: list
 show_excerpts: true
