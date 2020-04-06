@@ -26,5 +26,4 @@ Originally released for Xbox One and PC, the game is adding a new "Explore" mode
 
 Below arrives on PlayStation 4 on 7th April 2020.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h1Cj9BKbysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include responsive-embed url="https://www.youtube.com/embed/h1Cj9BKbysg" ratio="16:9" %}
