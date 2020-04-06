@@ -13,7 +13,7 @@ tags:
   - Wired Productions
 ---
 
-Deliver Us The Moon is an adventure title that switches back and forth between first and third-person perspective for players to experience the full depth of the story. It takes place in an apocalyptic near-future where Earth's resources have been completely used up so humanity is now looking to the stars in order to survive. Deliver Us The Moon is set to launch on on 24th April 2020.
+Deliver Us The Moon is set in an apocalyptic near-future where Earth's resources have neem depleted forcing humanity to now look to the stars in order to survive. Deliver Us The Moon is set to launch on on 24th April 2020.
 
 {% include responsive-embed url="https://www.youtube.com/embed/8-flNk0v6UI" ratio="16:9" %}
 
