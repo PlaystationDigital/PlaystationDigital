@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: News
+- title: News & Reviews
   url: /
 # title: Categories
 # url: /categories/
 # title: Tags
 # url: /tags/
-- title: reviews
-  url: /reviews/
+- title: Recent & Upcoming Releases
+  url: /releases/
 - title: Search
   url: /search/
