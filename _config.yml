@@ -76,10 +76,12 @@ plugins:
 collections:
  - reviews:
     output: true
-    permalink: /:collection/:reviews/
+    permalink: /:collection/:path/
+    ## news collection
 - news:
 output: true
-permalink: /:collection/:news/
+permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
