@@ -14,8 +14,6 @@ tags:
   - 
 ---
 
-Final Fantasy VII Remake is an action role-playing game developed and published by Square Enix. The game is a sequel to the 1997 PlayStation game Final Fantasy VII, largely recreating portions of the original plot and eventually diverging.
-
 The return draws closer. FINAL FANTASY VII REMAKE finally arrives on April 10, 2020. Are you ready for a legendary new beginning?
 
 The world has fallen under the control of the Shinra Electric Power Company, a shadowy corporation controlling the planet’s very life force as mako energy.
