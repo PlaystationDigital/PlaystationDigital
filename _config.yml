@@ -76,7 +76,7 @@ plugins:
 collections:
   releases:
     output: true
-    permalink: /:releases/:path/
+    permalink: /:collection/:path/
 # Front Matter Defaults
 defaults:
   # Posts defaults
