@@ -1,0 +1,30 @@
+---
+title: "Below"
+image:
+      path: /assets/images/wallpaperRetina.png
+      thumbnail: /assets/images/wallpaperRetina.png
+author: Gabriel C
+categories:
+  - Upcoming
+tags:
+  - Upcoming games
+  - Below
+  - Capybara Games
+  - Action Adventure
+---
+Capybara Games, the team behind Super Time Force, has announced that their dungeon-crawler Below will be coming to PS4 on 7th April 2020.
+
+Originally released for Xbox One and PC, the game is adding a new "Explore" mode, allowing people to take in the world of Below even if they aren't quite up to the high challenge that the game sets for players. In Explore mode, the below changes are in place:
+<ul>
+<li>No Survival Mechanics: Hunger + Thirst never drain.</li>
+<li>Traps, Damage & Death: No instant kills + All damage depletes player Health slowly through bleeding, giving players a chance to recover.</li>
+<li>Permanent Campfire Checkpoints: Checkpoints can always be returned to after death, allowing players to continue progressing deeper</li>
+      <li>into the underworld with greatly reduced backtracking.</li>
+</ul>
+
+"While some fans loved the punishing challenge, others desperately wanted to be able to spend more time simply bathing in the dripping darkness of Below’s environments, without having to surmount the sheer cliff of the game’s difficulty. The Explore Update was created exactly for these players, designed for everyone to enjoy," explained Creative Director Kris Piotrowski.
+
+Below arrives on PlayStation 4 on 7th April 2020.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h1Cj9BKbysg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
