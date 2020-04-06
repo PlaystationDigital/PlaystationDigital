@@ -21,4 +21,4 @@ Co-op is a big part of the game, with both online and split-screen co-op availab
 
 Hellpoint arrives on Xbox One, PlayStation 4 and PC on 16th April 2020.
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=Qr1ltAQDRns" ratio="16:9" %}
+{% include responsive-embed url="https://www.youtube.com/embed/Qr1ltAQDRns" ratio="16:9" %}
