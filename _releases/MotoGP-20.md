@@ -1,0 +1,24 @@
+---
+title: "MotoGP 20"
+image:
+      path: /assets/images/motogp20.jpg
+      thumbnail: /assets/images/motogp20.jpg
+author: Gabriel C
+categories:
+  - Upcoming
+tags:
+  - Upcoming games
+  - MotoGP 20
+  - Milestone srl
+  - Racing Simulator
+---
+
+Milestone has announced that its MotoGP franchise is set to return for another year this April, with the aptly-titled MotoGP 20 due to hit the track just a few weeks after the official MotoGP Championship gets underway. You'll be able to plant both wheels firmly on the asphalt when MotoGP 20 launches for PlayStation 4, Xbox One, Nintendo Switch, and PC on 23rd April 2020.
+
+This year, MotoGP 20 is looking to provide a "more strategic and realistic" approach to motorcycle racing, while offering full control in career mode with decisions that can impact your performance on the track. The series' Managerial Career mode also returns, so you can join a 2020 team or new team and manage a full entourage, garnering sponsors, analysing race data, and developing your bike.
+
+Physics have been reworked for MotoGP 20's simulation in an effort to make gameplay more technical and skill-based, while realism has been boosted with the introduction of fuel management, asymmetrical tyre wear, and aerodynamic damage that can affect both the look and performance of your bike during races. AI has allso been improved, making for fast, natural and fair opposition.
+
+MotoGP 20 will have a new format historical mode, new editing tools featuring stickers, helmets, racing numbers, lower back patches, and customisable bike liveries, as well as dedicated servers for online multiplayer. You'll also be able to don the boots of a young rider, climbing the MotoGP ladder fromRed Bull MotoGP Rookies Cup competitor to top class world champion.
+
+{% include responsive-embed url="https://www.youtube.com/embed/h6rAbN1tMHg" ratio="16:9" %}
