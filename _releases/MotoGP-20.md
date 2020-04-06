@@ -22,3 +22,7 @@ Physics have been reworked for MotoGP 20's simulation in an effort to make gamep
 MotoGP 20 will have a new format historical mode, new editing tools featuring stickers, helmets, racing numbers, lower back patches, and customisable bike liveries, as well as dedicated servers for online multiplayer. You'll also be able to don the boots of a young rider, climbing the MotoGP ladder fromRed Bull MotoGP Rookies Cup competitor to top class world champion.
 
 {% include responsive-embed url="https://www.youtube.com/embed/h6rAbN1tMHg" ratio="16:9" %}
+
+This trailer demonstrates the more realistic bike physics and behaviour, that combine to make MotoGP 20 a more challenging, technical and skill-based affair. Fuel management and asymmetrical tyre consumption will also form part of the strategical approach you'll need to bear in mind, as you look to master the MotoGP 20 Championship.
+
+{% include responsive-embed url="https://www.youtube.com/embed/d-t6cmNo0Mg" ratio="16:9" %}
