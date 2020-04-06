@@ -79,7 +79,7 @@ collections:
     permalink: /:reviews/:path/
     news:
     output: true
-    permalink: /:news/:path/
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
